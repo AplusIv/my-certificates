@@ -1,19 +1,20 @@
 # Мои сертификаты о прохождении образовательных модулей на курсе Нетологии "Веб-разработчик с нуля".    
 
 Мною были пройдены следующие модули:
-- HTML-верстка: с нуля до первого макета,
-- Адаптивная и мобильная верстка,
-- Основы программирования,
-- Git — система контроля версий,
-- Основы JavaScript,
-- Основы JavaScript в браузере,
-- Продвинутый JavaScript: современные возможности языка,
-- Продвинутый JavaScript в браузере,
-- React: Библиотека №1 в современной фронтенд-разработке,
-- Основы PHP,
-- Продвинутый PHP,
-- Фреймворк Laravel,
-- Итоговый модуль профессии Веб-разработчик (разработка сайта для бронирования онлайн билетов в кинотеатр и разработка информационной системы для администрирования залов, сеансов и предварительного бронирования билетов). Подтверждение диплома: <https://netology.ru/sharing/ea554926d8483d50fb4dde9ccd910076?utm_source=social&utm_campaign=certificate_lms>
+- HTML-верстка: с нуля до первого макета (<https://netology.ru/sharing/4dbd7d269c4dbcacb45a0b91679bb770?utm_source=social&utm_campaign=certificate_lms>),
+- Адаптивная и мобильная верстка (<https://netology.ru/sharing/10fc50954ffecde7873e11128db4694f?utm_source=social&utm_campaign=certificate_lms>),
+- Основы программирования (<https://netology.ru/sharing/dcabb83475052e8342586f2114b6e358?utm_source=social&utm_campaign=certificate_lms>),
+- Git — система контроля версий (<https://netology.ru/sharing/c780972183a3c8572af41ccd97be252f?utm_source=social&utm_campaign=certificate_lms>),
+- Основы JavaScript (<https://netology.ru/sharing/b69d3426de2a133c7c3da33c1b0167b5?utm_source=social&utm_campaign=certificate_lms>),
+- Основы JavaScript в браузере (<https://netology.ru/sharing/e46c15c717cf8439b1b75e27c17b0e40?utm_source=social&utm_campaign=certificate_lms>),
+- Продвинутый JavaScript: современные возможности языка (<https://netology.ru/sharing/55d0e89d680823083b9da96fe80b95ef?utm_source=social&utm_campaign=certificate_lms>),
+- Продвинутый JavaScript в браузере (<https://netology.ru/sharing/df6d89c4423e955080db2726e0497a10?utm_source=social&utm_campaign=certificate_lms>),
+- React: Библиотека №1 в современной фронтенд-разработке (<https://netology.ru/sharing/4b1614af32bf061f2b245e255870b3d3?utm_source=social&utm_campaign=certificate_lms>),
+- Основы PHP (<https://netology.ru/sharing/14a7bed7dd38c576e54396049f2fffdc?utm_source=social&utm_campaign=certificate_lms>),
+- Продвинутый PHP (<https://netology.ru/sharing/c2ea729b63289a9f49c653d2a4f5f93f?utm_source=social&utm_campaign=certificate_lms>),
+- Фреймворк Laravel (<https://netology.ru/sharing/38c6d1f9ca99bbc29ee76514320120a6?utm_source=social&utm_campaign=certificate_lms>),
+- Итоговый модуль профессии Веб-разработчик (разработка сайта для бронирования онлайн билетов в кинотеатр и разработка информационной системы для администрирования залов, сеансов и предварительного бронирования билетов).
+*Подтверждение диплома*: <https://netology.ru/sharing/ea554926d8483d50fb4dde9ccd910076?utm_source=social&utm_campaign=certificate_lms>
 
 Приведу примеры навыков, с какими познакомился и получил в процессе обучения:
 - Резиновая вёрстка,
