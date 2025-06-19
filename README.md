@@ -13,7 +13,7 @@
 - Основы PHP (<https://netology.ru/sharing/14a7bed7dd38c576e54396049f2fffdc?utm_source=social&utm_campaign=certificate_lms>),
 - Продвинутый PHP (<https://netology.ru/sharing/c2ea729b63289a9f49c653d2a4f5f93f?utm_source=social&utm_campaign=certificate_lms>),
 - Фреймворк Laravel (<https://netology.ru/sharing/38c6d1f9ca99bbc29ee76514320120a6?utm_source=social&utm_campaign=certificate_lms>),
-- Итоговый модуль профессии Веб-разработчик (разработка сайта для бронирования онлайн билетов в кинотеатр и разработка информационной системы для администрирования залов, сеансов и предварительного бронирования билетов).
+- Итоговый модуль профессии Веб-разработчик (разработка сайта для бронирования онлайн билетов в кинотеатр и разработка информационной системы для администрирования залов, сеансов и предварительного бронирования билетов).        
 *Подтверждение диплома*: <https://netology.ru/sharing/ea554926d8483d50fb4dde9ccd910076?utm_source=social&utm_campaign=certificate_lms>
 
 Приведу примеры навыков, с какими познакомился и получил в процессе обучения:
